@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Home
+
+I'm a PhD student at the Institute for Language, Cognition and Computation in the University of Edinburgh, UK, where my research focuses on low-resource machine translation, under the supervision of Alexandra Birch and Barry Haddow. Besides, I've been a member of the Artifial Inteligence Research Group at the Pontificia Universidad Católica del Perú (PUCP), where I also taught courses about programming and foundations of data science and machine learning, as well as supervised undegrad and masters thesis projects. I've participated in research and development of language technologies for Peruvian indigenous languages (Chana initiative), and collaborated in computatiomnal linguistic research on language obsolescence and lexical variation. I'm the organiser of a (to-be) series of summer school of NLP and machine translation in Peru and the host of an online bi-weekly reading session of NLP and computational linguistics research in Peru and LatAm.
+
+## Publications
+
+## Teaching
+
+## Service
+
+
 
 You can use the [editor on GitHub](https://github.com/aoncevay/aoncevay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
