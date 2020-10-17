@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Phd student at the University of Edinburgh. 
+    Phd student at the University of Edinburgh.|
     Researcher from Pontificia Universidad Católica del Perú.
     
   #  Open `_data/authors.yml` to edit this text.
