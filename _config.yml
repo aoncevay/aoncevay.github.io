@@ -55,8 +55,10 @@ menu:
     url:               /papers/
   - title:             CV
     url:               /cv/
+  - title:             NLP for Peru
+    url:               /nlp4peru/
   - title:             Chana
-    url:               https://chana-peru.github.io
+    url:               https://github.com/aoncevay/lingcomp-nlp-meetups #https://chana-peru.github.io
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
