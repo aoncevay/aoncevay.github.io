@@ -7,7 +7,7 @@ papers:
     booktitle: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing"
     venue: conference
     selected: yes
-    doc-url: https://arxiv.org/abs/2005.08826
+    doc-url: https://arxiv.org/abs/2004.14923
   - layout: paper
     paper-type: inproceedings
     year: 2020
