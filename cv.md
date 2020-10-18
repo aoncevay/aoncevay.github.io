@@ -17,7 +17,7 @@ order:  1
 
 **Pontificia Universidad Católica del Perú* (2014-2018)**
 
-Researcher: Projects on machine translation and development on language technologies for Amazonian languages.
+Researcher: Projects on machine translation and development on language technologies for Amazonian languages, and in computational linguistics methods for studying lexical variation and obsolescence. 
 
 Research assistant: Projects on machine learning applications for plants image recognition and semantic annotation of web documents using linked data.
 
