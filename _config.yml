@@ -51,10 +51,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
+  - title:             Papers
     url:               /papers/
-  - title:             Resources
-    url:               /resource/
+  - title:             CV
+    url:               /cv/
   - title:             Chana
     url:               https://chana-peru.github.io
 
