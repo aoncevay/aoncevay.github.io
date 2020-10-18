@@ -53,10 +53,10 @@ author:
 menu:
   - title:             Publications
     url:               /papers/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Resources
+    url:               /resource/
+  - title:             Chana
+    url:               https://chana-peru.github.io
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
