@@ -6,8 +6,8 @@ cover: true
 
 I'm a PhD student in the [Machine Translation](https://www.wiki.ed.ac.uk/display/statmt/People) and 
 [Edinburgh NLP](http://groups.inf.ed.ac.uk/edinburghnlp/) groups at the University of Edinburgh, UK, 
-under the supervision of (Alexandra Birch)[http://homepages.inf.ed.ac.uk/abmayne/] 
-and (Barry Haddow)[http://homepages.inf.ed.ac.uk/bhaddow/].
+under the supervision of [Alexandra Birch](http://homepages.inf.ed.ac.uk/abmayne/) 
+and [Barry Haddow](http://homepages.inf.ed.ac.uk/bhaddow/).
 
 My research focuses on low-resource natural language processing and machine translation.
 Moreover, I am interested in integrating linguistic typology knowledge with NLP and
