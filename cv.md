@@ -8,14 +8,14 @@ order:  1
 
 ## Education
 
-* *PhD in Informatics: Institute for Language, Cognition and Computation*. University of Edinburgh (in progress, est. 2022)
-* *Master in Informatics, Computer Science*. Pontifica Universidad Católica del Perú. 2016
-* *Bachelor of Science, Informatics Engineering*. Pontifica Universidad Católica del Perú. 2012
+* **PhD in Informatics: Institute for Language, Cognition and Computation**. University of Edinburgh (in progress, est. 2022)
+* **Master in Informatics, Computer Science**. Pontifica Universidad Católica del Perú. 2016
+* **Bachelor of Science, Informatics Engineering**. Pontifica Universidad Católica del Perú. 2012
 * Machine Learning Summer School. London. 2020
 
 ## Research experience
 
-*Pontificia Universidad Católica del Perú* (2014-2018)
+**Pontificia Universidad Católica del Perú* (2014-2018)**
 
 Researcher: Projects on machine translation and development on language technologies for Amazonian languages.
 
