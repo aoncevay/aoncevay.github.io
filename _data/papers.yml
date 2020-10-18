@@ -1,0 +1,28 @@
+papers:
+  - layout: paper
+    paper-type: inproceedings
+    year: 2020
+    title: "Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations"
+    authors: "Arturo Oncevay, Barry Haddow, Alexandra Birch"
+    booktitle: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing"
+    venue: conference
+    selected: yes
+    doc-url: https://arxiv.org/abs/2005.08826
+  - layout: paper
+    paper-type: inproceedings
+    year: 2020
+    title: "Efficient Strategies for Hierarchical Text Classification: External Knowledge and Auxiliary Tasks"
+    authors: "Kervy Rivas Rojas, Gina Bustamante, Arturo Oncevay, Marco Antonio Sobrevilla Cabezudo"
+    booktitle: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics"
+    doc-url: https://www.aclweb.org/anthology/2020.acl-main.205/
+    venue: conference
+    selected: yes
+  - layout: paper
+    paper-type: inproceedings
+    year: 2020
+    title: "No Data to Crawl? Monolingual Corpus Creation from PDF Files of Truly low-Resource Languages in Peru"
+    authors: "Gina Bustamante, Arturo Oncevay, Roberto Zariquiey"
+    booktitle: "Proceedings of the 12th Language Resources and Evaluation Conference"
+    venue: conference
+    selected: yes
+    doc-url: https://www.aclweb.org/anthology/2020.lrec-1.356/
