@@ -32,7 +32,7 @@ tagline:               > #Change `tagline` in `_config.yml`
   Researcher on NLP for under-represented languages
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [natural language processing, machine translation, peru]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -214,7 +214,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
