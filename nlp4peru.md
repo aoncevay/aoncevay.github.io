@@ -1,8 +1,7 @@
 ---
 layout: about
 hide_description: true
-redirect_from:
-  - /download/
+title: NLP for Peru
 ---
 
 # NLP for Peru
