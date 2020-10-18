@@ -11,22 +11,22 @@ The list is grouped by type of resource and by language family.
 If you want to know more about NLP for native languages of all the Americas, 
 you must look at the awesome work of Manuel Mager: [Naki](https://pywirrarika.github.io/naki/)
 
-# NLP applications
+## NLP applications
 
-## Morphology
+### Morphology
 
-## Syntax
+### Syntax
 
-## Machine translation
+### Machine translation
 
-## Other
+### Other
 
-# Language families
+## Language families
 
-## Quechua
+### Quechua
 
-## Aymara
+### Aymara
 
-## Pano
+### Pano
 
-## Arawak
+### Arawak
