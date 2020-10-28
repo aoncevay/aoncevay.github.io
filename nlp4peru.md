@@ -2,7 +2,7 @@
 layout: about
 hide_description: true
 menu:  true
-title: NLP for Peru
+title: NLP for Peru (page under construction)
 ---
 
 Corpora, tools and papers for NLP applications on native Peruvian languages (Demos comming soon!). 
