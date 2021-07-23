@@ -1,13 +1,31 @@
 papers:
   - layout: paper
     paper-type: inproceedings
+    year: 2021
+    title: "Findings of the AmericasNLP 2021 Shared Task on Open Machine Translation for Indigenous Languages of the Americas"
+    authors: "Manuel Mager, Arturo Oncevay, Abteen Ebrahimi, John Ortega, Annette Rios, Angela Fan, Ximena Gutierrez-Vasques, Luis Chiruzzo, Gustavo Giménez-Lugo, Ricardo Ramos, Ivan Vladimir Meza Ruiz, Rolando Coto-Solano, Alexis Palmer, Elisabeth Mager-Hois, Vishrav Chaudhary, Graham Neubig, Ngoc Thang Vu, Katharina Kann"
+    booktitle: "Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas"
+    venue: conference
+    selected: yes
+    doc-url: https://aclanthology.org/2021.americasnlp-1.23/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2021
+    title: "Peru is Multilingual, Its Machine Translation Should Be Too?"
+    authors: "Arturo Oncevay"
+    booktitle: "Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas"
+    venue: conference
+    selected: yes
+    doc-url: hhttps://aclanthology.org/2021.americasnlp-1.22/
+  - layout: paper
+    paper-type: inproceedings
     year: 2020
     title: "Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations"
     authors: "Arturo Oncevay, Barry Haddow, Alexandra Birch"
     booktitle: "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing"
     venue: conference
     selected: yes
-    doc-url: https://arxiv.org/abs/2004.14923
+    doc-url: https://aclanthology.org/2020.emnlp-main.187/
   - layout: paper
     paper-type: inproceedings
     year: 2020
