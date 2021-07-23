@@ -31,6 +31,7 @@ Research assistant: Projects on machine learning applications for plants image r
 
 ## Service
 
+* Co-organiser of [AmericasNLP](http://turing.iimas.unam.mx/americasnlp/), First Workshop on NLP for the Indigenous Languages of the Americas
 * Organiser of the NLP & MT summer school series (2020-2021) in Peru.
 * Co-founder of Chana and host of a bi-weekly reading club on Computational Linguistics and NLP for Amerindian languages.
 * Reviewer of: WMT, MT Summit, LoResMT, ACL SRW, WiNLP, LatinX.
