@@ -1,6 +1,33 @@
 papers:
   - layout: paper
     paper-type: inproceedings
+    year: 2022
+    title: "Quantifying Synthesis and Fusion and their Impact on Machine Translation"
+    authors: "Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva"
+    booktitle: "NAACL 2022 (camera-ready)"
+    venue: conference
+    selected: yes
+    doc-url: https://arxiv.org/abs/2205.03369
+  - layout: paper
+    paper-type: inproceedings
+    year: 2022
+    title: "BPE vs Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages"
+    authors: "Manuel Mager, Arturo Oncevay, Elisabeth Mager, Katharina Kann, Ngoc Thang Vu"
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2022"
+    venue: conference
+    selected: yes
+    doc-url: https://aclanthology.org/2022.findings-acl.78/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2022
+    title: "AmericasNLI: Evaluating Zero-shot Natural Language Understanding of Pretrained Multilingual Models in Truly Low-resource Languages"
+    authors: "Abteen Ebrahimi, Manuel Mager, Arturo Oncevay, Vishrav Chaudhary, Luis Chiruzzo, Angela Fan, John Ortega, Ricardo Ramos, Annette Rios, Ivan Vladimir Meza Ruiz, Gustavo Giménez-Lugo, Elisabeth Mager, Graham Neubig, Alexis Palmer, Rolando Coto-Solano, Thang Vu, Katharina Kann"
+    booktitle: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    venue: conference
+    selected: yes
+    doc-url: https://aclanthology.org/2022.acl-long.435
+  - layout: paper
+    paper-type: inproceedings
     year: 2021
     title: "Findings of the AmericasNLP 2021 Shared Task on Open Machine Translation for Indigenous Languages of the Americas"
     authors: "Manuel Mager, Arturo Oncevay, Abteen Ebrahimi, John Ortega, Annette Rios, Angela Fan, Ximena Gutierrez-Vasques, Luis Chiruzzo, Gustavo Giménez-Lugo, Ricardo Ramos, Ivan Vladimir Meza Ruiz, Rolando Coto-Solano, Alexis Palmer, Elisabeth Mager-Hois, Vishrav Chaudhary, Graham Neubig, Ngoc Thang Vu, Katharina Kann"
