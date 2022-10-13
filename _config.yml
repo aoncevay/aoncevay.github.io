@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               > #Change `tagline` in `_config.yml`
-  NLP researcher
+  NLP researcher for under-represented languages and scenarios with limited resources.
 
 # A list of keywords for your blog
 keywords:              [natural language processing, machine translation, peru, nlp]
@@ -52,7 +52,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About me
-    url:               /index/
+    url:               /aboutme/
   - title:             Papers
     url:               /papers/
   - title:             CV
