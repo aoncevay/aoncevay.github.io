@@ -8,18 +8,16 @@ order:  1
 
 ## Education
 
-* **PhD in Informatics: Institute for Language, Cognition and Computation**. University of Edinburgh (in progress, est. 2022)
+* **PhD in Informatics: Institute for Language, Cognition and Computation**. University of Edinburgh (expected graduation date: 2023)
 * **Master in Informatics, Computer Science**. Pontifica Universidad Católica del Perú. 2016
 * **Bachelor of Science, Informatics Engineering**. Pontifica Universidad Católica del Perú. 2012
-* Machine Learning Summer School. London. 2020
+
 
 ## Research experience
 
-**Pontificia Universidad Católica del Perú** (2014-2018, external collaborator since then)
-
-Researcher: Projects on machine translation and development on language technologies for Amazonian languages, and in computational linguistics methods for studying lexical variation and obsolescence. 
-
-Research assistant: Projects on machine learning applications for plants image recognition and semantic annotation of web documents using linked data.
+* **PhD researcher**, University of Edinburgh, Feb 2019 - present, 3.5+ years.
+* **Research intern**, Knowledge Graph team, Huawei UK, Jan 2022 - Aug 2022, 7 months.
+* **Pre-doctoral researcher**, Pontificia Universidad Católica del Perú, Jan 2016 - Jan 2019, 3 years (external collaborator since then).
 
 ## Awards & Grants 
 
@@ -31,8 +29,7 @@ Research assistant: Projects on machine learning applications for plants image r
 
 ## Service
 
-* Co-organiser of [AmericasNLP](http://turing.iimas.unam.mx/americasnlp/), First Workshop on NLP for the Indigenous Languages of the Americas
+* Co-organiser of [AmericasNLP](http://turing.iimas.unam.mx/americasnlp/), Workshop series on NLP for the Indigenous Languages of the Americas
 * Organiser of the NLP & MT summer school series (2020-2021) in Peru.
 * Co-founder of Chana and host of a bi-weekly reading club on Computational Linguistics and NLP for Amerindian languages.
-* Reviewer of: WMT, MT Summit, LoResMT, ACL SRW, WiNLP, LatinX.
-* Co-organiser of the Applied NLP workshop series (2017-2019) in Peru, co-located with SIMBig. This was the first NLP academic event in the country.
+* Reviewer of: ACL Rolling Review WMT, MT Summit, LoResMT, ACL SRW, WiNLP, LatinX.
