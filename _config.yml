@@ -25,14 +25,14 @@ title:                 Arturo Oncevay
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Researcher on NLP for under-represented languages
+  NLP researcher for under-represented languages and scenarios with limited resources.
 
 # A shorter description for the sidebar.
 tagline:               > #Change `tagline` in `_config.yml`
-  Researcher on NLP for under-represented languages
+  NLP researcher
 
 # A list of keywords for your blog
-keywords:              [natural language processing, machine translation, peru]
+keywords:              [natural language processing, machine translation, peru, nlp]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -51,12 +51,12 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About me
+    url:               /index/
   - title:             Papers
     url:               /papers/
   - title:             CV
     url:               /cv/
-  - title:             NLP for Peru
-    url:               /nlp4peru/
   - title:             Chana
     url:               https://github.com/aoncevay/lingcomp-nlp-meetups #https://chana-peru.github.io
 
