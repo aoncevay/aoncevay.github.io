@@ -2,12 +2,21 @@ papers:
   - layout: paper
     paper-type: inproceedings
     year: 2022
-    title: "Quantifying Synthesis and Fusion and their Impact on Machine Translation"
-    authors: "Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva"
-    booktitle: "NAACL 2022 (camera-ready)"
+    title: "Revisiting Syllables in Language Modelling and Their Application on Low-Resource Machine Translation"
+    authors: "Arturo Oncevay, Kervy Dante Rivas Rojas, Liz Karen Chavez Sanchez, Roberto Zariquiey"
+    booktitle: "COLING 2022"
     venue: conference
     selected: yes
-    doc-url: https://arxiv.org/abs/2205.03369
+    doc-url: https://aclanthology.org/2022.coling-1.374/
+  - layout: paper
+    paper-type: inproceedings
+    year: 2022
+    title: "Quantifying Synthesis and Fusion and their Impact on Machine Translation"
+    authors: "Arturo Oncevay, Duygu Ataman, Niels van Berkel, Barry Haddow, Alexandra Birch, Johannes Bjerva"
+    booktitle: "NAACL 2022"
+    venue: conference
+    selected: yes
+    doc-url: https://aclanthology.org/2022.naacl-main.94/
   - layout: paper
     paper-type: inproceedings
     year: 2022
