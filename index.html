@@ -1,0 +1,180 @@
+---
+layout: null
+permalink: /
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arturo Oncevay</title>
+<meta name="description" content="NLP researcher working on multilingual data, low-resource languages and evaluation. Open science advocate.">
+<link rel="icon" href="/assets/icons/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fbfbfa; --fg: #1d2327; --muted: #5f6b73; --line: #e6e8ea;
+    --card: #ffffff; --accent: #2a8c94; --tag: #eef6f6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12171a; --fg: #e7ecee; --muted: #9aa7ae; --line: #253036;
+      --card: #182025; --accent: #5cc2ca; --tag: #1d2d31;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.65 Inter, -apple-system, Helvetica, Arial, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 64px 20px 80px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  header { display: flex; gap: 28px; align-items: center; }
+  header img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; flex: none; }
+  h1 { font-size: 30px; font-weight: 600; margin: 0 0 4px; letter-spacing: -0.01em; }
+  .role { color: var(--muted); margin: 0 0 12px; }
+  .links { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 14px; font-weight: 500; }
+
+  h2 {
+    font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--muted); margin: 52px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--line);
+  }
+  p { margin: 0 0 14px; }
+
+  .interests { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 0; list-style: none; }
+  .interests li { background: var(--tag); padding: 4px 12px; border-radius: 999px; font-size: 14px; }
+
+  .collab { list-style: none; padding: 0; margin: 0; }
+  .collab li { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  .collab li:last-child { border-bottom: 0; }
+  .collab b { font-weight: 600; }
+  .collab span { color: var(--muted); font-size: 14px; display: block; }
+
+  .pubs { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  .pubs li {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+  }
+  .pubs .t { font-weight: 500; display: block; color: var(--fg); }
+  .pubs a.t:hover { color: var(--accent); text-decoration: none; }
+  .pubs .m { color: var(--muted); font-size: 14px; }
+  .pubs .v { font-weight: 600; color: var(--accent); }
+  .more { margin-top: 14px; font-size: 14px; color: var(--muted); }
+
+  footer { margin-top: 56px; color: var(--muted); font-size: 13px; }
+
+  @media (max-width: 560px) {
+    main { padding-top: 40px; }
+    header { flex-direction: column; align-items: flex-start; gap: 18px; }
+    header img { width: 96px; height: 96px; }
+  }
+</style>
+</head>
+<body>
+<main>
+
+  <header>
+    <img src="/assets/img/profile_sq.jpeg" alt="Arturo Oncevay">
+    <div>
+      <h1>Arturo Oncevay</h1>
+      <p class="role">AI Research Lead, NLP · JPMorgan Chase, London</p>
+      <nav class="links">
+        <a href="mailto:arturo.oncevay@gmail.com">Email</a>
+        <a href="https://scholar.google.com/citations?user=P5-SRqUAAAAJ">Google Scholar</a>
+        <a href="https://aclanthology.org/people/a/arturo-oncevay/">ACL Anthology</a>
+        <a href="https://github.com/aoncevay">GitHub</a>
+        <a href="/cv/">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <h2>About</h2>
+  <p>
+    I'm an NLP researcher working on multilingual data, low-resource languages and evaluation.
+    I hold a PhD in Informatics from the University of Edinburgh, where I studied how linguistic
+    typology shapes neural machine translation.
+  </p>
+  <p>
+    I care about open science: shared tasks, public benchmarks and openly released data are how
+    I've done most of my research, and I believe they're how the field gets better models for
+    every language, not only the best-resourced ones.
+  </p>
+
+  <h2>Interests</h2>
+  <ul class="interests">
+    <li>Multilingual & low-resource NLP</li>
+    <li>Data curation & quality</li>
+    <li>Evaluation & benchmarking</li>
+    <li>LLM-as-judge reliability</li>
+    <li>Machine translation</li>
+    <li>Linguistic typology</li>
+    <li>Open models & open data</li>
+  </ul>
+
+  <h2>Community & open research</h2>
+  <ul class="collab">
+    <li>
+      <b><a href="http://turing.iimas.unam.mx/americasnlp/">AmericasNLP</a></b> — co-founder & organiser, 2021–present
+      <span>Workshop series and open shared tasks on NLP for Indigenous languages of the Americas, with public benchmarks for languages that had none.</span>
+    </li>
+    <li>
+      <b>WMT · Translation with Terminologies</b> — co-organiser, 2025–2026
+      <span>Shared task on terminology-constrained translation: benchmark design, terminology data curation and system evaluation.</span>
+    </li>
+    <li>
+      <b>PUCP</b> — external research advisor, 2018–present
+      <span>Supervising student research on long-tail and low-resource NLP at Pontificia Universidad Católica del Perú.</span>
+    </li>
+    <li>
+      <b>ACL</b> — area chair, 2025–present
+      <span>Reviewer for ACL, EMNLP, NAACL, WMT, SIGTYP and LoResMT since 2019.</span>
+    </li>
+  </ul>
+
+  <h2>Selected publications</h2>
+  <ul class="pubs">
+    <li>
+      <span class="t">Simple Beats Spend: Cost–Performance Trade-Offs for Multi-Agent Machine Translation of Specialized Long Documents</span>
+      <span class="m">Oncevay et al. · <span class="v">Findings of EMNLP 2026</span> (to appear)</span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/people/a/arturo-oncevay/">Translating Domain-Specific Terminology in Typologically-Diverse Languages: A Study in Tax and Financial Education</a>
+      <span class="m">Oncevay et al. · <span class="v">EMNLP 2025</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/people/a/arturo-oncevay/">AfroCS-xs: Creating a Compact, Human-Validated Code-Switched Dataset for African Languages</a>
+      <span class="m">Olaleye, Oncevay, Sibue et al. · <span class="v">ACL 2025</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/people/a/arturo-oncevay/">The Impact of Domain-Specific Terminology on Machine Translation for Finance in European Languages</a>
+      <span class="m">Oncevay et al. · <span class="v">NAACL 2025</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/2022.acl-long.435">AmericasNLI: Evaluating Zero-shot Natural Language Understanding of Pretrained Multilingual Models in Truly Low-resource Languages</a>
+      <span class="m">Ebrahimi, Mager, Oncevay et al. · <span class="v">ACL 2022</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/2022.naacl-main.94/">Quantifying Synthesis and Fusion and their Impact on Machine Translation</a>
+      <span class="m">Oncevay, Ataman, van Berkel, Haddow, Birch, Bjerva · <span class="v">NAACL 2022</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/people/a/arturo-oncevay/">SchAman: Spell-Checking Resources and Benchmark for Endangered Languages from Amazonia</a>
+      <span class="m">Oncevay et al. · <span class="v">AACL-IJCNLP 2022</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/2021.americasnlp-1.23/">Findings of the AmericasNLP 2021 Shared Task on Open Machine Translation for Indigenous Languages of the Americas</a>
+      <span class="m">Mager, Oncevay et al. · <span class="v">AmericasNLP 2021</span></span>
+    </li>
+    <li>
+      <a class="t" href="https://aclanthology.org/2020.emnlp-main.187/">Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations</a>
+      <span class="m">Oncevay, Haddow, Birch · <span class="v">EMNLP 2020</span></span>
+    </li>
+  </ul>
+  <p class="more">Full list on <a href="https://scholar.google.com/citations?user=P5-SRqUAAAAJ">Google Scholar</a> and the <a href="https://aclanthology.org/people/a/arturo-oncevay/">ACL Anthology</a>.</p>
+
+  <footer>© Arturo Oncevay</footer>
+</main>
+</body>
+</html>
