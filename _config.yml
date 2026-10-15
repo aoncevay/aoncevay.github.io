@@ -51,12 +51,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About me
-    url:               /aboutme/
   - title:             Papers
     url:               /papers/
-  - title:             CV
-    url:               /cv/
   - title:             Chana
     url:               https://github.com/aoncevay/lingcomp-nlp-meetups #https://chana-peru.github.io
 
